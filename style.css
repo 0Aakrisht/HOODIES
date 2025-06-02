@@ -137,7 +137,7 @@ header {
 }
 
 /* Section 1 */
-.section-one {
+/* .section-one {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -162,7 +162,7 @@ header {
   line-height: 25px;
   margin-bottom: 1rem;
   color: #716d6d;
-}
+} */
 
 /* Products */
 .products {
@@ -230,7 +230,7 @@ header {
 }
 
 /* Customers */
-.customers-reviews {
+/* .customers-reviews {
   margin-top: 7rem;
   display: flex;
   flex-wrap: wrap;
@@ -299,10 +299,10 @@ footer .container .footer-primary-heading {
   font-weight: normal;
   font-size: 15px;
   margin-bottom: 20px;
-}
+} */
 
 /* You can make it responsive for your own screen if you wanna to, but for now this is good enough. */
-@media only screen and (max-width: 900px) {
+/* @media only screen and (max-width: 900px) {
   header {
     height: 120vh;
     text-align: center;
@@ -331,4 +331,4 @@ footer .container .footer-primary-heading {
     width: 150px;
     height: 150px;
   }
-}
+} */
