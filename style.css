@@ -137,7 +137,7 @@ header {
 }
 
 /* Section 1 */
-/* .section-one {
+.section-one {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -162,7 +162,7 @@ header {
   line-height: 25px;
   margin-bottom: 1rem;
   color: #716d6d;
-} */
+}
 
 /* Products */
 .products {
